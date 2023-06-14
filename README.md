@@ -21,30 +21,5 @@ details.
 in nature and practicing sports.
 
 
-----------------------------------------------------
-
-# print("Hola, soy Markel 👋")
-
-Soy un entusiasta desarrollador iOS en búsqueda de oportunidades como 
-desarrollador junior. Actualmente estoy trabajando en mi portafolio 
-personal, aprendiendo y practicando con diferentes tecnologías y 
-arquitecturas como VIPER, MVVM, Combine, CoreData y diferentes APIs.
-
-## Un poco más acerca de mí...
-
-- 🔭 Actualmente estoy trabajando en mis propios proyectos para crear un 
-buen portafolio.
-- 🌱 Actualmente estoy aprendiendo diferentes tecnologías como Combine y 
-arquitecturas como VIPER y MVVM.
-- 👯 Estoy buscando oportunidades como desarrollador iOS junior.
-- 🏃‍♂️ En mi tiempo libre, disfruto del ciclismo y correr. 
-- 🌍 Tengo experiencia internacional.
-- 📫 Puedes contactarme en mi correo electrónico: markjuaristi@gmail.com
-- 🔗 Visita mi 
-[LinkedIn](https://www.linkedin.com/in/markel-juaristi-84a87287/) para más 
-detalles.
-- ⚡ Dato curioso: Aunque me encanta la tecnología, disfruto pasar tiempo 
-en la naturaleza y hacer deporte.
-
 
 
